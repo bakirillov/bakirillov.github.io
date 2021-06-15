@@ -1,17 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
-<description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Fri, 28 May 2021 23:45:09 +0300</lastBuildDate>
-<pubDate>Fri, 28 May 2021 23:45:09 +0300</pubDate>
-<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<channel><title>Personal Page</title><link>https://bakirillov.github.io//index.html</link>
+<description>Bogdan A. Kirillov</description><language>en</language>
+<lastBuildDate>Tue, 15 Jun 2021 13:51:38 +0300</lastBuildDate>
+<pubDate>Tue, 15 Jun 2021 13:51:38 +0300</pubDate>
+<atom:link href="https://bakirillov.github.io//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-This is the first post with bashblog.
+<h1>Bogdan Kirillov</h1>
 </title><description><![CDATA[
 
+<h2>Personal Information</h2>
+
+<p><img src="/home/bakirillov/Pictures/photos/photo_2021-03-29_22-45-51.jpg" alt="photo_2021-03-29_22-45-51" style="zoom: 33%;" /></p>
+
+<p><strong>Date and place of birth:</strong>        18.07.1994, Chita, Zabaikalsky region, Russian Federation    </p>
+
+<p><strong>Languages:</strong>                              Russian (native), English (fluent), German (intermediate)    </p>
+
+<p><strong>H-index:</strong>                                      2 (Google Scholar, user=XRmTPksAAAAJ) </p>
+
+<h2>Skills</h2>
+
+<p>Software Development, Machine Learning, Bioinformatics</p>
+
+<p><strong>Programming Languages:</strong>                              Python, Dart, Haskell, R, C/C++</p>
+
+<p><strong>Machine Learning Libraries:</strong>                         PyTorch, keras, Scikit-Learn, ludwig, pycaret</p>
+
+<h2>Employment History</h2>
+
+<p>| Time frame                    | Position                                                     | Responsibilities                                             |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| January 2020 – July 2020      | <strong><em>Lecturer</em><em>*</em></strong>,<strong>* <em>Faculty of Biology and Biotechnology, Higher School of Economics, Moscow, Russian Federation</em> | Development and teaching an introductory course in Data Analysis for first-year Biotechnology students. |
+| September 2019 – October 2020 | <em></strong>Machine Learning Developer<strong></em><em></strong>,<strong></em> <em>CoBrain Analytics, Moscow, Russian Federation</em> | Development of several medical AI services using PyTorch, Flask, Celery etc. |
+| December 2018 – April 2019    | <em></strong>Special Volunteer,<strong></em> <em>Evolutionary Genomics Research Group,</em> <em>National Center of Biotechnology</em> <em>Information, Bethesda, Maryland, United States of America</em> | Development of a Deep Learning-based approach towards investigation of defense islands in bacterial genomes based on unsupervised segmentation of                             annotated genomes and protein classification. |
+| October 2014 – December 2018  | <em></strong>Freelance<strong></em>                                              | Prototype development, data analysis.                        |
+| April 2016 – June 2016        | <em>*Intern</strong>, *Kryoterm, Saint-Petersburg, Russian Federation</em> | Development of an Evolutionary Algorithms-based optimization application for determining the best configuration of a liquid cooling system. |</p>
+
+<h2>Education</h2>
+
+<p>| time frame                             | Degree                                                       | Thesis Title                                                 | Research advisor                  |
+| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| November 2019 – October 2023 (current) | <strong><em>PhD in Life Sciences</em></strong> <strong><em>from S</em><em>*</em></strong>koltech<strong>*         | Uncertainty Quantification and Neural Network Interpretation for                        studying CRISPR mechanisms | Konstantin Severinov, D.Sc, Ph.D. |
+| September 2017 – June 2019             | <em></strong>Master of Science in Life Sciences from S<strong></em><em></strong>koltech<strong></em> | Interpretable evaluation of Cas9-gRNA and Cpf1-gRNA specificity to on-targets and off-targets via Deep Learning | Ekaterina Savitskaya, Ph.D.       |
+| September 2012 – August 2016           | <em></strong>Bachelor of Science in<strong></em> <em></strong>Applied<strong></em> <em></strong>Physics from ITMO University</em>** | Optimization of parameters for liquid cooling system         | Alexander Sharkov, D.Sc.          |</p>
+
+<h2>Certifications</h2>
+
+<p>Deep Learning Specialization (3 completed courses out of 5), Coursera</p>
+
+<p>Software Security, University of Maryland, Coursera,</p>
+
+<p>Social Network Analysis, University of Michigan, Coursera,</p>
+
+<p>Model Thinking, University of Michigan, Coursera</p>
+
+<h2>Selected publications and theses</h2>
+
+<p>| Authors                                                      | Title                                                        | Short description                                            | Role in the project                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <strong><em>Kirillov, Bogdan</em></strong>; Savitskaya, Ekaterina; Panov, Maxim; Ogurtsov, Alexey; Shabalina, Svetlana;  Koonin, Eugene; Severinov, Konstantin | Uncertainty-aware and interpretable evaluation of Cas9-gRNA and  Cas12a-gRNA specificity for fully matched and partially mismatched  targets with Deep Kernel Learning | On review in Nucleic Acid Research                           | Development of the method, design of computational experiments |
+| Petrovskaya, Aleksandra; <strong><em>Kirillov,</em></strong> <strong><em>Bogdan</em></strong>; Asmolova, Anastasiya; Galli, Giulia; Feurra, Matteo; Medvedeva, Angela | Examining the effects of transcranial direct current stimulation on human episodic memory with machine learning | Paper in PLOS ONE                                            | Statistical analysis, computational experiments, development of the method. |
+| <strong><em>Kirillov, Bogdan</em></strong>                                       | Interpretable evaluation of Cas9-gRNA and Cpf1-gRNA specificity to on-targets and off-targets via Deep Learning | M.S. thesis at Skolkovo Institute of Science and Technology. | Development of Deep Learning models and web application for guide selection |
+| <strong><em>Kirillov, Bogdan</em></strong>                                       | Optimization of parameters for liquid cooling system         | B.S. Thesis, ITMO University (In Russian)                    | Development of Evolutionary Algorithm-based optimization tool for choice of liquid cooling system parameters. |</p>
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/this-is-the-first-post-with-bashblog.html</link>
-<guid>http://example.com/blog/./this-is-the-first-post-with-bashblog.html</guid>
-<dc:creator>John Smith</dc:creator>
-<pubDate>Fri, 28 May 2021 23:44:43 +0300</pubDate></item>
+]]></description><link>https://bakirillov.github.io//h1bogdan-kirillovh1.html</link>
+<guid>https://bakirillov.github.io//./h1bogdan-kirillovh1.html</guid>
+<dc:creator>Bogdan A. Kirillov</dc:creator>
+<pubDate>Tue, 15 Jun 2021 13:51:36 +0300</pubDate></item>
 </channel></rss>
